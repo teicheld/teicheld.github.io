@@ -37,11 +37,11 @@ stackoverflow_username: "16086950"
 
 # About Section
 # about_title: About Me
-about_profile_image: https://i.stack.imgur.com/5uY8f.jpg?s=256&g=1
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Thorsten and I'm a junior software developer and student at Codam.nl where I am gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>C> and <mark>Linux</mark>
+  I am most skilled in: <mark>C</mark> and <mark>Linux</mark>
 
 content:
   - title: Projects # Title for the section
@@ -59,9 +59,9 @@ content:
         #          #   icon: fab fa-github
         #          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          I have no cool project to present, because I am focusing on my own and not on buisness problems.
+          I have developed projects for private usecases only (see my github). This is changing in future.
         description: | # this will include new lines to allow paragraphs
-         In the future I am creating a <mark>Bugtracker</mark>. I have learned many skills through selfstudiyng.
+         I am goining to develop a <mark>Bugtracker</mark>.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -71,23 +71,11 @@ content:
         link: github.com/eicheld
         # link_text: boringcompany.com
         sub_title: C
-        caption: November 2019 - February 2020
+        caption: November 2020 - now
         quote: >
-          Learning all the keywords and the syntax in C was *intersting. Solving problems in C was hard and fun like math.
+          Learning all the keywords and the syntax in C was interesting. Solving problems in C was hard and fun like math.
         description: | # this will include new lines to allow paragraphs
             We all go the same path of learning programming together, push and review each other.
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: I have no certificated education and was wasting my time in school.
-        caption: 2000 - 2019
-        sub_title: fuck the state and my parents
-        quote: >
-                I like bushcraft, because this is all I have left in this fucking society.
-        description: | # this will include new lines to allow paragraphs
-          During my time after school I learnt most of my skills in electronic and coding. I expanded during my career this skills through abilities like teamwork and working to tight deadlines. I thouroughly enjoyed my free time outside of official education and learnd a lot there about healthy work life balance.
 
   - title: A Little More About Me
     layout: text
@@ -98,7 +86,7 @@ content:
       - Camping
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
