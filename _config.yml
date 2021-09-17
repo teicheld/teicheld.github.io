@@ -41,15 +41,17 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Thorsten and I'm a junior software developer and student at Codam.nl where I am gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>C</mark> and <mark>Linux</mark>
+  Expertise: <mark>C</mark> <mark>Linux</mark> <mark>Shell</mark> <mark>Java</mark>
+
+
 
 content:
-  - title: Projects # Title for the section
+  - title: Project # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: I have no cool Project to present
-        link: github.com/teicheld
+        title: real-time map analysis
+        link: https://github.com/teicheld/realtimeStreamFS
         # link_text: Project Website
         #        additional_links:
         #          - title:  sproogen/modern-resume-theme
@@ -59,9 +61,9 @@ content:
         #          #   icon: fab fa-github
         #          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          I have developed projects for private usecases only (see my github). This is changing in future.
+                Coding in a team under time pressure got me thinking afterwards about priority and time management.
         description: | # this will include new lines to allow paragraphs
-         I am goining to develop a <mark>Bugtracker</mark>.
+          This was my first hackerton, hosted at the school 42 in Amsterdam. I have developed the project with one peer over 3 days.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
