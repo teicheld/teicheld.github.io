@@ -100,7 +100,8 @@ content:
         # link_text: github...
         sub_title: 
         caption: May 2021 - August 2021
-        quote: > If you know C you know what is happening under the hood of high-level languages.
+        quote: > 
+          If you know C you know what is happening under the hood of high-level languages.
           
         description: | # this will include new lines to allow paragraphs
                         I learnd each keyword and the syntax of the language by solving related problems until I had gone through them all. After that I was accepted at the coding college "Codam" in Amsterdam. Suprising for me was how rigorous our programs are penetrated so I begon to think about harden my code against edge cases. A new value to which I was gratefuly exposed was the value of peer reviews. Reading somebody elses code and explaining my own raises your learning curve. Since then I am community focused. 
@@ -112,7 +113,8 @@ content:
         # link_text: github...
         sub_title: 
         caption: now
-        quote: > You can have an impact on my future path.
+        quote: > 
+          You can have an impact on my future path.
           
         description: | # this will include new lines to allow paragraphs
                 At Codam I can choose my path out of comprehensive resources. As you have read until here, I am definitely interested in your company and I appreciate to hear from you.
