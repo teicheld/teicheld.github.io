@@ -1,98 +1,76 @@
 # Site
-repository: unknown parameter1
+repository: sproogen/jameswgrant
 favicon: images/favicon.ico
 
-# Content configuration version
-version: 2
+version: 1
 
 # Personal info
-name: Thorsten Eicheldinger
-title: Junior software developer
-email: teicheld@web.de
-website: www.github.com/teicheld
-
-# Dark Mode (true/false/never)
-darkmode: true
+name: James Grant
+title: Full Stack Web Developer
+email: james@jameswgrant.co.uk
 
 # Social links
-github_username:  teicheld
-stackoverflow_username: "16086950"
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
-#additional_links:
-#- title: blabalbalbla
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+twitter_username: sproogen
+github_username:  sproogen
+# dribbble_username:
+# facebook_username:
+# flickr_username:
+instagram_username: jameswgrant
+linkedin_username: jameswgrant
+# pinterest_username:
+# youtube_username:
+# googleplus_username:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Thorsten and I'm a junior software developer with 2 years experience currently specialising in Java development.
-  I am currently student at Codam a school in Amsterdam.
+about_profile_image: images/jg.jpg
+about_content: |
+  Hi, my name is James Grant, I'm a full stack web developer with over 8 years experience currently specialising in React development.
+  I am currently working for NatWest as a frontend software engineer on their comercial banking platform, Bankline.
 
-I enjoy learning since I have more opportunities in my mind as time to realize them. I am always searching for opportunities to work with something new. The things than I currently have the most experience working with are:
-  <mark>C</mark>,
-  <mark>Linux</mark>,
-  <mark>Shell</mark>,
+  I enjoy making clean and interactive UI that is quick and easy to use whilst also giving users an enjoyable experience.
+  I have worked with a range of different languages and frameworks and I am always looking for opportunities to work
+  with something new. The things that I currently have the most experience working with are:
+  <mark>ES6 Javascript</mark>,
+  <mark>React &amp; Redux</mark>,
+  <mark>Node.js</mark>,
+  <mark>Java</mark>,
   <mark>PHP</mark>,
   <mark>MySQL</mark>,
-  <mark>git</mark>,
-  <mark>Java</mark>
+  <mark>Symfony</mark>,
+  <mark>SASS</mark>,
+  <mark>git</mark> and
+  <mark>AWS</mark> services.
 
-
-content:
-  - title: Project # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: real-time map analysis
-        link: https://github.com/teicheld/realtimeStreamFS
-        # link_text: Project Website
-        #        additional_links:
-        #          - title:  sproogen/modern-resume-theme
-        #            icon: fab fa-github
-        #            url: github.com/sproogen/modern-resume-theme
-        #          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #          #   icon: fab fa-github
-        #          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-                Coding in a team under time pressure got me thinking afterwards about priority and time management.
-        description: | # this will include new lines to allow paragraphs
-          This was my first hackerton, hosted at the school 42 in Amsterdam. I have developed the project with one peer over 3 days.
+# Projects Section
+# projects_title: Projects
 
 # Experience Section
 # experience_title: Experience
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in electronics and software engineering some of my other interests and hobbies are:
-      - Sailing
-      - Gaming
-      - Camping
+# Education Section
+# educaton_title: Education
+
+# More Section
+more_title: When I'm Not Programming
+more_content: |
+  When I'm not sat at my desk I am very active and spend most of my time outdoors. I do a lot a sports such as
+  mountain biking, road cycling, kitesuring and horse riding as well as trying to make time for things like
+  rock climbing and playing some rugby. Since my time at university I have become a very keen Kitesurfer and freestyle
+  Landboarder. In 2014 I competed and won the amateur landboard British powerkite tour.
+
+  I'm interested in photography and videography as I like to be creative, this is mainly through sport but
+  I enjoy landscape and abstract photography too. I like to showcase my work on instagram if
+  you would like to take a look - [jameswgrant](https://www.instagram.com/jameswgrant/).
+
+  Finally during the rest of my free time you will either find me working on my bikes, rock climbing at one of
+  Bristol's indoor climbing centres or down the Rec supporting Bath Rugby.
 
 # Footer
 footer_show_references: false
-# references_title: References on request (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
 
-sass:
-  sass_dir: _sass
-  style: compressed
-
-plugins:
- - jekyll-seo-tag
+# sass:
+#   style: compressed
