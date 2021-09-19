@@ -1,0 +1,31 @@
+- layout: top-middle
+  name: The decision and the beginning with GNU Linux and Bash
+  link: github.com/teicheld/
+  quote: >
+          You can do almost anything with the GNU-Utils and the BASH command language.
+  description: | # this will include new lines to allow paragraphs
+          I decided to become a programer. 
+        Through the effort of understanding and maintaining the GNU software and the Linux system I did a deep dive into the BASH command language.
+        After feeling comfortable automating my daily tasks, I was ready to go a step further learning to realize my idea of building a open marketplace...
+- layout: top-middle
+  name: The Marketplace
+  link: http://216.24.253.6
+  quote: > 
+    The experience and mindset which a gained during develpment was it worth, even if I changed the model of my application at the end fundamental.
+    
+  description: | # this will include new lines to allow paragraphs
+          I learned php and html and built it from ground up. Everytime after implementing successful a new feature I felt great everytime. As the frame was implemented I had thought already alot about security. I read the Bitcoin whitepaper and was impressed how simple and effective it was and how completly different it was compared to the traditional client-server model which I had in focus. I decided to focus on a decentraliced model to become sustainable as bitcoin and quit development on this version. But still I cant keep my hands complete away, because I like what I have built so far. I set it online for demonstration purposes. It was time to go on further with something else. Something like C...
+- layout: top-middle
+  name: The C programming language
+  link: https://github.com/teicheld/learning_the_c_language
+  quote: > 
+    If you know C you know what is happening under the hood of high-level languages.
+  description: | # this will include new lines to allow paragraphs
+          I learnd each keyword and the syntax of the language by solving related problems until I had gone through them all. After that I was accepted at the coding college "Codam" in Amsterdam. Suprising for me was how rigorous our programs are penetrated so I begon to think about harden my code against edge cases. A new value to which I was gratefuly exposed was the value of peer reviews. Reading somebody elses code and explaining my own raises your learning curve. Since then I am community focused. 
+- layout: top-middle
+  name: Where does my path go?
+  quote: > 
+    You can have an impact on my future path.
+  description: | # this will include new lines to allow paragraphs
+          At Codam I can choose my path out of comprehensive resources. As you have read until here, I am definitely interested in your company and I appreciate to hear from you.
+
