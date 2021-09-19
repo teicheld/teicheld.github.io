@@ -87,7 +87,8 @@ content:
         # link_text: github...
         sub_title: 
         caption: March 2021 - May 2021
-        quote: > The experience and mindset which a gained during develpment was it worth, even if I changed the model of my application at the end fundamental.
+        quote: > 
+          The experience and mindset which a gained during develpment was it worth, even if I changed the model of my application at the end fundamental.
           
         description: | # this will include new lines to allow paragraphs
                 I learned php and html and built it from ground up. Everytime after implementing successful a new feature I felt great everytime. As the frame was implemented I had thought already alot about security. I read the Bitcoin whitepaper and was impressed how simple and effective it was and how completly different it was compared to the traditional client-server model which I had in focus. I decided to focus on a decentraliced model to become sustainable as bitcoin and quit development on this version. But still I cant keep my hands complete away, because I like what I have built so far. I set it online for demonstration purposes. It was time to go on further with something else. Something like C...
