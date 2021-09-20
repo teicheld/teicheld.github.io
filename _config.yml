@@ -76,10 +76,10 @@ content:
         title: A marketplace as webservice
         link: 216.24.253.6
         link_text: Website
-               additional_links:
-                 - title:  geocaching_market
-                   icon: fab fa-github
-                   url: https://github.com/cypherp01nt/geocaching_market
+        #       additional_links:
+        #         - title:  geocaching_market
+        #           icon: fab fa-github
+        #           url: https://github.com/cypherp01nt/geocaching_market
         #          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #          #   icon: fab fa-github
         #          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
