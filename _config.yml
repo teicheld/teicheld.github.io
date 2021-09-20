@@ -56,8 +56,10 @@ content:
     content:
       - layout: top-left
         title: real-time map analysis
-        link: https://github.com/teicheld/realtimeStreamFS
-        # link_text: Project Website
+        additional_links:
+          - title: github
+            icon: fab fa-github
+            url: https://github.com/teicheld/realtimeStreamFS
         #        additional_links:
         #          - title:  sproogen/modern-resume-theme
         #            icon: fab fa-github
@@ -74,10 +76,10 @@ content:
         title: A marketplace as webservice
         link: http://216.24.253.6
         link_text: website
-        additional_links:
-          - title: github
-            icon: fab fa-github
-            url: https://github.com/teicheld/GeoCamar
+                additional_links:
+                  - title: github
+                    icon: fab fa-github
+                    url: https://github.com/teicheld/GeoCamar
         #       additional_links:
         #         - title:  geocaching_market
         #           icon: fab fa-github
