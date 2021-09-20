@@ -53,10 +53,10 @@ I enjoy learning since I have more opportunities in my mind as time to realize t
 
 
 content:
-  - title: Project # Title for the section
+  - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: top-left
         title: real-time map analysis
         link: https://github.com/teicheld/realtimeStreamFS
         # link_text: Project Website
@@ -70,7 +70,23 @@ content:
         quote: >
                 Coding in a team under time pressure got me thinking afterwards about priority and time management.
         description: | # this will include new lines to allow paragraphs
-          This was my first hackerton, hosted at the school 42 in Amsterdam. I have developed the project with one peer over 3 days.
+          This was my first hackerton, hosted at the school 42 in Amsterdam. I have developed the project with one peer over 3 days. It is written in C.
+
+      - layout: top-right
+        title: A marketplace as webservice
+        link: 216.24.253.6
+        link_text: Website
+               additional_links:
+                 - title:  geocaching_market
+                   icon: fab fa-github
+                   url: https://github.com/cypherp01nt/geocaching_market
+        #          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #          #   icon: fab fa-github
+        #          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+                I learned php and html and built it from ground up. Everytime after implementing successful a new feature I felt great. 
+        description: | # this will include new lines to allow paragraphs
+                This is the resultat of my html, css, php, mysql learning session
 
   - title: descision # Title for the section
     layout: list # Type of content section (list/text)
@@ -93,7 +109,7 @@ content:
             The experience and mindset which a gained during develpment was it worth, even if I changed the model of my application at the end fundamental.
             
           description: | # this will include new lines to allow paragraphs
-                  I learned php and html and built it from ground up. Everytime after implementing successful a new feature I felt great everytime. As the frame was implemented I had thought already alot about security. I read the Bitcoin whitepaper and was impressed how simple and effective it was and how completly different it was compared to the traditional client-server model which I had in focus. I decided to focus on a decentraliced model to become sustainable as bitcoin and quit development on this version. But still I cant keep my hands complete away, because I like what I have built so far. I set it online for demonstration purposes. It was time to go on further with something else. Something like C...
+                  As the frame was implemented I had thought already alot about security. I read the Bitcoin whitepaper and was impressed how simple and effective it was and how completly different it was compared to the traditional client-server model which I had in focus. I decided to focus on a decentraliced model to become sustainable as bitcoin and quit development on this version. But still I cant keep my hands complete away, because I like what I have built so far. I set it online for demonstration purposes. It was time to go on further with something else. Something like C...
 
   - title: c # Title for the section
     layout: list # Type of content section (list/text)
