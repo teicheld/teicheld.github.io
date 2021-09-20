@@ -76,10 +76,10 @@ content:
         title: A marketplace as webservice
         link: http://216.24.253.6
         link_text: website
-                additional_links:
-                  - title: github
-                    icon: fab fa-github
-                    url: https://github.com/teicheld/GeoCamar
+        additional_links:
+          - title: github
+            icon: fab fa-github
+            url: https://github.com/teicheld/GeoCamar
         #       additional_links:
         #         - title:  geocaching_market
         #           icon: fab fa-github
