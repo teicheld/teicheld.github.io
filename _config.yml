@@ -1,30 +1,39 @@
 # Site
-repository: unknown parameter1
+repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Thorsten Eicheldinger
-title: Junior software developer
-email: teicheld@web.de
-website: www.github.com/teicheld
+name: Brett Harris
+title: Senior Network System Administrator
+email: brett.h@email.co.uk
+website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
-github_username:  teicheld
-stackoverflow_username: "16086950"
+twitter_username: facespics
+github_username:  sproogen
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: jameswgrant
+linkedin_username: jameswgrant
+# xing_username: jekyll
+# pinterest_username: jekyll
+youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-#additional_links:
-#- title: blabalbalbla
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
+additional_links:
+- title: itsgoingto.be
+  icon: fas fa-globe
+  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -35,57 +44,40 @@ stackoverflow_username: "16086950"
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
 
-# About Section
-# about_title: About Me
-about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Thorsten and I'm a junior software developer with 2 years experience currently specialising in Java development.
-  I am currently student at Codam a school in Amsterdam.
-
-I enjoy learning since I have more opportunities in my mind as time to realize them. I am always searching for opportunities to work with something new. The things than I currently have the most experience working with are:
-  <mark>C</mark>,
-  <mark>Linux</mark>,
-  <mark>Shell</mark>,
-  <mark>PHP</mark>,
-  <mark>MySQL</mark>,
-  <mark>git</mark>,
-  <mark>Java</mark>
-
-
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-left
-        title: real-time map analysis
-        link: https://github.com/teicheld/realtimeStreamFS
+      - layout: top-middle
+        title: Super awesome project
+        link: github.com/sproogen
         # link_text: Project Website
-        #        additional_links:
-        #          - title:  sproogen/modern-resume-theme
-        #            icon: fab fa-github
-        #            url: github.com/sproogen/modern-resume-theme
-        #          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #          #   icon: fab fa-github
-        #          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-                Coding in a team under time pressure got me thinking afterwards about priority and time management.
+                quote 1
         description: | # this will include new lines to allow paragraphs
-          This was my first hackerton, hosted at the school 42 in Amsterdam. I have developed the project with one peer over 3 days. It is written in C.
-
-      - layout: top-right
-        title: A marketplace as webservice
-        link: 216.24.253.6
-        link_text: Website
-               additional_links:
-                 - title:  geocaching_market
-                   icon: fab fa-github
-                   url: https://github.com/cypherp01nt/geocaching_market
-        #          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #          #   icon: fab fa-github
-        #          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+                description1
+      - layout: top-middle
+        title: project 2
+        link: link
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-                I learned php and html and built it from ground up. Everytime after implementing successful a new feature I felt great. 
+                quote 2
         description: | # this will include new lines to allow paragraphs
+<<<<<<< HEAD
                 This is the resultat of my html, css, php, mysql learning session
 
   - title: My experience # Title for the section
@@ -130,9 +122,12 @@ content:
       - Sailing
       - Gaming
       - Camping
+=======
+                description2
+>>>>>>> 0eeddd5f44b3c37a16f34f1deaa2c454fe4448ac
 
 # Footer
-footer_show_references: false
+footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
