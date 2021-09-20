@@ -42,7 +42,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Thorsten and I'm a junior software developer with 2 years experience currently specialising in Java development.
   I am currently student at Codam a school in Amsterdam.
 
-I enjoy learning since I have more opportunities in my mind as time to realize them. I am always searching for opportunities to work with something new. The things than I currently have the most experience working with are:
+"I enjoy learning since I have more opportunities in my mind as time to realize them. I am always searching for opportunities to work with something new. The things than I currently have the most experience working with are:"
   <mark>C</mark>,
   <mark>Linux</mark>,
   <mark>Shell</mark>,
@@ -72,7 +72,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           This was my first hackerton, hosted at the school 42 in Amsterdam. I have developed the project with one peer over 3 days. It is written in C.
 
-      - layout: top-right
+      - layout: top-left
         title: A marketplace as webservice
         link: 216.24.253.6
         link_text: Website
@@ -92,7 +92,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
         - layout: left
-          title: The beginning with GNU Linux and Bash
+          title: GNU Linux and Bash
           link: github.com/teicheld/
           quote: >
             You can do almost anything with the GNU-Utils and the BASH command language.
