@@ -97,7 +97,10 @@ content:
     content:
         - layout: left
           title: GNU Linux and Bash
-          link: github.com/teicheld/
+          additional_links:
+            - title: github
+              icon: fab fa-github
+              url: https://github.com/teicheld?tab=repositories&q=&type=&language=shell&sort=
           quote: >
             You can do almost anything with the GNU-Utils and the BASH command language.
           description: | # this will include new lines to allow paragraphs
