@@ -55,22 +55,6 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-left
-        title: A marketplace as webservice
-        link: http://216.24.253.6
-        link_text: website
-        #       additional_links:
-                 - title:  geocaching_market
-                   icon: fab fa-github
-                   url: https://github.com/cypherp01nt/geocaching_market
-        #          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #          #   icon: fab fa-github
-        #          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-                I learned php and html and built it from ground up. Everytime after implementing successful a new feature I felt great. 
-        description: | # this will include new lines to allow paragraphs
-                This is the resultat of my html, css, php, mysql learning session
-
-      - layout: top-left
         title: real-time map analysis
         link: https://github.com/teicheld/realtimeStreamFS
         # link_text: Project Website
@@ -85,6 +69,22 @@ content:
                 Coding in a team under time pressure got me thinking afterwards about priority and time management.
         description: | # this will include new lines to allow paragraphs
                 This was my first hackerton, hosted at the school 42 in Amsterdam. I have developed the project with one peer over 3 days. It is written in C.
+
+      - layout: right
+        title: A marketplace as webservice
+        link: http://216.24.253.6
+        link_text: website
+        #       additional_links:
+                 - title:  geocaching_market
+                   icon: fab fa-github
+                   url: https://github.com/cypherp01nt/geocaching_market
+        #          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #          #   icon: fab fa-github
+        #          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+                I learned php and html and built it from ground up. Everytime after implementing successful a new feature I felt great. 
+        description: | # this will include new lines to allow paragraphs
+                This is the resultat of my html, css, php, mysql learning session
 
   - title: My experience # Title for the section
     layout: list # Type of content section (list/text)
