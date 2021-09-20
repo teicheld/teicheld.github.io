@@ -77,7 +77,7 @@ content:
         #       additional_links:
                  - title:  geocaching_market
         #           icon: fab fa-github
-                   url: https://github.com/teicheld/GeoCamar
+        #           url: https://github.com/teicheld/GeoCamar
         #          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #          #   icon: fab fa-github
         #          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
