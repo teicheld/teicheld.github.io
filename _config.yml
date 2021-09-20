@@ -74,8 +74,10 @@ content:
         title: A marketplace as webservice
         link: http://216.24.253.6
         link_text: website
+        link: https://github.com/teicheld/GeoCamar
+        link_text: github
         #       additional_links:
-                 - title:  geocaching_market
+        #         - title:  geocaching_market
         #           icon: fab fa-github
         #           url: https://github.com/teicheld/GeoCamar
         #          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
