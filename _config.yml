@@ -41,15 +41,14 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Thorsten and I'm a junior software developer with 2 years experience.
   I am currently student at Codam a school in Amsterdam.
-  I enjoy learning since I have more opportunities in my mind as time to realize them. I am always searching for opportunities to work with something new. The things than I currently have the most experience working with are
-  <mark>C</mark>,
-  <mark>Linux</mark>,
-  <mark>Shell</mark>,
-  <mark>PHP</mark>,
-  <mark>MySQL</mark>,
-  <mark>git</mark>,
-  <mark>Java</mark>
-
+  I enjoy learning since I have more projects in my mind as time to realize them. I am always searching for opportunities to work with something new. The topics in which I have the most experience working with are
+  <mark>C</mark>(5 months),
+  <mark>Linux</mark>(2 years), 
+  <mark>Shell</mark>(2 years), 
+  <mark>PHP</mark>(3 months), 
+  <mark>MySQL</mark>(3 months), 
+  <mark>git</mark>(2 months), 
+  <mark>Java</mark>(currently learning)
 
 content:
   - title: Projects # Title for the section
