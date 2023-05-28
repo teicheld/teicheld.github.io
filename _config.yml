@@ -40,7 +40,7 @@ stackoverflow_username: "16086950"
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Thorsten and I'm a junior software developer with 2 years experience.
-  I am currently student at Codam a school in Amsterdam.
+  I am currently student at GFN, a child of the Chamber of Commerce and Industry.
   I enjoy learning since I have more projects in my mind as time to realise them. I am always searching for opportunities to work with something new. The topics in which I have the most experience working with are
   <mark>C</mark>(5 months),
   <mark>Linux</mark>(2 years), 
@@ -144,8 +144,8 @@ content:
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in electronics and software engineering some of my other interests and hobbies are:
       - Sailing
-      - Gaming
-      - Camping
+      - Science fiction
+      - Libertarianism
 
 # Footer
 footer_show_references: false
