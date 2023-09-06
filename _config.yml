@@ -42,13 +42,13 @@ about_content: | # this will include new lines to allow paragraphs
   Hello, my name is Thorsten and I'm a junior software developer with 2 years experience.
   I am currently enrolled in a computer science education program in germany and am searching for opportunities to work with. 
   The topics in which I have the most experience working with are
-  <mark>C</mark>(5 months),\n
-  <mark>Linux</mark>(3 years), \n
-  <mark>PHP</mark>(3 months), \n
-  <mark>MySQL</mark>(3 months), \n
-  <mark>git</mark>(5 months), \n
-  <mark>Java</mark>(4 months)\n
-  <mark>Python</mark>(currently learning)\n
+  <mark>C</mark>(5 months),|
+  <mark>Linux</mark>(3 years), |
+  <mark>PHP</mark>(3 months), |
+  <mark>MySQL</mark>(3 months), |
+  <mark>git</mark>(5 months), |
+  <mark>Java</mark>(4 months)|
+  <mark>Python</mark>(currently learning)|
 
 content:
   - title: Projects # Title for the section
