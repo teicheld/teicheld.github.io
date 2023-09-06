@@ -2,9 +2,9 @@
   name: The decision and the beginning with GNU Linux and Bash
   link: github.com/teicheld/
   quote: >
-    You can do almost anything with the GNU-Utils and the BASH command language.
+    Free software is like a pocket knife with a detailed, professional replica instruction.
   description: | # this will include new lines to allow paragraphs
-    I decided to become a programer two years ago. Through the effort of understanding and maintaining the GNU software and the Linux system I did a deep dive into the BASH command language. After feeling comfortable automating my daily tasks, I was ready to go a step further learning to realize my idea of building a open marketplace...
+    Through the effort of understanding and using the GNU software and the Linux system I did a dive into the BASH command language.
 
 - layout: top-middle
   name: The C programming language
